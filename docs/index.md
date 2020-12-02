@@ -96,3 +96,6 @@ read_data_from_file(strFileName)
 Fig 1 demonstrates the code running in PyCharm.  First I run it where no text file exists in the folder, hence I get the error messages described.  I then demonstrate that entering a letter on both prompts generates the custom errors described.  Finally, I create the binary file as described, shown in Fig 2:  
 ![Fig1](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig1.png "Fig 1")
 #### Figure 1: PyCharm Run with No Existing Text File
+![Fig2](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig2.png "Fig2")
+#### Figure 2: Binary File from PyCharm Script
+Next I demonstrate what this looks like in PyCharm if there is an existing Text file, which runs as described.  See Fig 3:
