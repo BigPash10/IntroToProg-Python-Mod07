@@ -98,16 +98,16 @@ Fig 1 demonstrates the code running in PyCharm.  First I run it where no text fi
 #### Figure 1: PyCharm Run with No Existing Text File
 ![Fig2](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig2.png "Fig2")
 #### Figure 2: Binary File from PyCharm Script
-Next I demonstrate what this looks like in PyCharm if there is an existing Text file, which runs as described.  See Fig 3:
+Next I demonstrate what this looks like in PyCharm if there is an existing Text file, which runs as described.  See Fig 3:  
 ![Fig3](https://raw.githubusercontent.com/BigPash10/IntroToProg-Python-Mod07/main/docs/FIg3.png "Fig3")
 #### Figure 3: PyCharm Run with Existing Text File
-Fig 4 shows a similar run to the first run but in the Command Prompt:
+Fig 4 shows a similar run to the first run but in the Command Prompt:  
 ![Fig4](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig4.png "Fig4")
 #### Figure 4: Command Prompt Run with no Existing Text File
 Fig 5 shows what the resulting binary file looks like:  
 ![Fig5](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig5.png "Fig5")
 #### Figure 5: Resulting Binary File from Command Prompt Run
-Finally, Fig 6 demonstrates the Command Prompt run but with an existing text file:
+Finally, Fig 6 demonstrates the Command Prompt run but with an existing text file:  
 ![Fig6](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig6.png "Fig6")
 #### Figure 6: Command Line Run with Existing Text File
 ## Conclusion:
