@@ -104,7 +104,11 @@ Next I demonstrate what this looks like in PyCharm if there is an existing Text 
 Fig 4 shows a similar run to the first run but in the Command Prompt:
 ![Fig4](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig4.png "Fig4")
 #### Figure 4: Command Prompt Run with no Existing Text File
-Fig 5 shows what the resulting binary file looks like:
+Fig 5 shows what the resulting binary file looks like:  
 ![Fig5](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig5.png "Fig5")
 #### Figure 5: Resulting Binary File from Command Prompt Run
 Finally, Fig 6 demonstrates the Command Prompt run but with an existing text file:
+![Fig6](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig6.png "Fig6")
+#### Figure 6: Command Line Run with Existing Text File
+## Conclusion:
+In this module we learned how to perform structured error handling using try/except and raising existing errors, custom errors or custom Exceptions.  This allows a developer to handle different scenarios when running a script.  Finally, we also looked at how to use pickling to save data from Python in the existing format, whether it’s a list, dictionary, tuple, etc. and then read it back in that format rather than having to convert the data to a string and write it as a text file.
