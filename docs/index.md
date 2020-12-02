@@ -99,7 +99,7 @@ Fig 1 demonstrates the code running in PyCharm.  First I run it where no text fi
 ![Fig2](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig2.png "Fig2")
 #### Figure 2: Binary File from PyCharm Script
 Next I demonstrate what this looks like in PyCharm if there is an existing Text file, which runs as described.  See Fig 3:
-![Fig3](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/FIg3.png "Fig3")
+![Fig3](https://raw.githubusercontent.com/BigPash10/IntroToProg-Python-Mod07/main/docs/FIg3.png "Fig3")
 #### Figure 3: PyCharm Run with Existing Text File
 Fig 4 shows a similar run to the first run but in the Command Prompt:
 ![Fig4](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig4.png "Fig4")
