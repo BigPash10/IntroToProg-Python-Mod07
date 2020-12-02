@@ -105,3 +105,6 @@ Fig 4 shows a similar run to the first run but in the Command Prompt:
 ![Fig4](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig4.png "Fig4")
 #### Figure 4: Command Prompt Run with no Existing Text File
 Fig 5 shows what the resulting binary file looks like:
+![Fig5](https://github.com/BigPash10/IntroToProg-Python-Mod07/blob/main/docs/Fig5.png "Fig5")
+#### Figure 5: Resulting Binary File from Command Prompt Run
+Finally, Fig 6 demonstrates the Command Prompt run but with an existing text file:
